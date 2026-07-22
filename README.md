@@ -1,20 +1,16 @@
-# Elmer Julian Rosas Manjarres
-
 <!--
-**Rosas000/Rosas000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nombra completo: Elmer Julian Rosas Manjarres 
 
-Here are some ideas to get you started:
+Usuario: Rosas000
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Correo electrónico: roxen045@gmail.com
+
+CODE_SENA_URL: https://github.com/code-sena
+
+Organización institucional: https://github.com/code-sena
 -->
 
+# Elmer Julian Rosas Manjarres
 
 ## 🚀 Sobre mi
 
@@ -28,11 +24,3 @@ Actualmente estoy iniciando mi formación en el desarrollo de software, aprendie
 🧩 Lógica de programación<br>
 🛠️ Git y GitHub (control de versiones)<br>
 
-
-Usuario: Rosas000
-
-Correo electrónico: roxen045@gmail.com
-
-CODE_SENA_URL: https://github.com/code-sena
-
-Organización institucional: https://github.com/code-sena
